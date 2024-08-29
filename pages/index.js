@@ -18,7 +18,7 @@ export default function Home() {
       </main>
 
       <footer>
-        <p>Powered by Next.js</p>
+        <p>COSMOS SPACES</p>
       </footer>
     </div>
   );
